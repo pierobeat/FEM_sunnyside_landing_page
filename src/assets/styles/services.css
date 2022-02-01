@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,600;1,600&family=Fraunces:ital,wght@0,700;0,900;1,700;1,900&display=swap');
+
+#services .card-title {
+    font-family: 'Fraunces', serif;
+}
+
+/* section 1 */
+#section-1 .left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#section-1 .left .card {
+    width: 60%;
+    border: none;
+}
+
+#section-1 .card-body > .card-title {
+    color: black;
+    font-size: 30px;
+    justify-content: start;
+    text-align: left;
+}
+
+#section-1 .right {
+    padding-left: 0;
+}
+
+#section-1  .right > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* section 2 */
+#section-2 .right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#section-2 .right .card {
+    width: 60%;
+    border: none;
+}
+
+#section-2 .card-body > .card-title {
+    color: black;
+    font-size: 30px;
+    text-align: left;
+}
+
+#section-2 .left {
+    padding-left: 0;
+}
+
+#section-2  .left > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* section 3 */
+#section-3 .left {
+    padding-left: 0;
+}
+
+#section-3 .left > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#section-3 .right > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

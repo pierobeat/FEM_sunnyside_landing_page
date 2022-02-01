@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,600;1,600&family=Fraunces:ital,wght@0,700;0,900;1,700;1,900&display=swap');    
+
+#header {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/desktop/image-header.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.navbar {
+    width: 100%;
+    height: 40px;
+    z-index: 3;
+}
+
+.navbar a {
+    color: white;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.card {
+    border: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.header-card > .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body > .card-title {
+    color: white;
+    font-size: 70px;
+}
+
+.card-body > a {
+    margin-top: 40px;
+}
