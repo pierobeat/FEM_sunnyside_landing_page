@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Frontend Mentor Challenge
+challenge link : https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef
+
+![active-states](https://user-images.githubusercontent.com/54365107/152451161-f422414a-d5c8-4ed0-bfe8-3469673bc097.jpg)
+![desktop-preview](https://user-images.githubusercontent.com/54365107/152451184-b97d37d1-d776-478a-a177-be4a3c3218ab.jpg)
+
+Tools : 
+- HTML/CSS
+- Reactjs
+- Bootstrap 5
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
