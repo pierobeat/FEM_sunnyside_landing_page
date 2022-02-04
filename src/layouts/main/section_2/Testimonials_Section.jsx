@@ -16,11 +16,11 @@ const TestimonialsSection = () => {
     <div id="testimoni">
       <section id="testimonial-section">
         <div className="row mx-0">
-          <div className="col col-lg-12 col-md-12 col-xs-12 testimonial-title">
+          <div className="col col-lg-12 col-md-12 col-12 testimonial-title">
             <h2>CLIENT TESTIMONIALS</h2>
           </div>
           {/* <div className="testimonial-content"> */}
-            <div className="col col-lg-12 col-md-12 col-xs-12 testimonial-content-card">
+            <div className="col col-lg-12 col-md-12 col-12 testimonial-content-card">
               <div className="card">
                 <img src={Emily} alt="testimony" />
                 <div className="card-body">
@@ -58,16 +58,16 @@ const TestimonialsSection = () => {
 
       <section id="image-section">
         <div className="row mx-0   image-grid">
-          <div className="col col-lg-3 col-md-3 col-xs-6 px-0 image-content">
+          <div className="col col-lg-3 col-md-3 col-6 px-0 image-content">
             <img src={Milkbottles} alt="Milk Bottles" />
           </div>
-          <div className="col col-lg-3 col-md-3 col-xs-6 px-0 image-content">
+          <div className="col col-lg-3 col-md-3 col-6 px-0 image-content">
             <img src={Orange} alt="Orange" />
           </div>
-          <div className="col col-lg-3 col-md-3 col-xs-6 px-0 image-content">
+          <div className="col col-lg-3 col-md-3 col-6 px-0 image-content">
             <img src={Cone} alt="Cone" />
           </div>
-          <div className="col col-lg-3 col-md-3 col-xs-6 px-0 image-content">
+          <div className="col col-lg-3 col-md-3 col-6 px-0 image-content">
             <img src={Sugar} alt="Sugar" />
           </div>
         </div>
